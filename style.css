@@ -92,6 +92,7 @@ p{
     margin: auto;
     border-bottom: solid 1px hsl(275, 100%, 97%);
     width: 600px;
+    height: fit-content;
 }
 
 
