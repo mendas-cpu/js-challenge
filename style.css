@@ -47,6 +47,8 @@ p{
     margin: auto;
     border-bottom: solid 1px hsl(275, 100%, 97%);
     width: 550px;
+    margin-left: 15px;
+    margin-right: 0px;
 }
 .headers:hover{
     color: hsl(300, 100%, 25%);
@@ -62,7 +64,6 @@ p{
     display: inline-block;
 }
 #container1{
-    width: 1200px;
     background-color: white;
     width: 700px;
     min-height: 600px;
@@ -90,6 +91,7 @@ p{
     color: var(--primary-color);
     margin: auto;
     border-bottom: solid 1px hsl(275, 100%, 97%);
+    width: 650px;
 
 }
 
