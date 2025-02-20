@@ -23,7 +23,6 @@ h1{
     padding-top: 40px;
     color: var(--primary-color2);
     font-size: 60px;
-    padding-bottom: 20px;
 }
 p{
     font-weight: 400;
@@ -40,7 +39,7 @@ p{
     align-items: center;
     justify-content: space-between;
     transition: color 0.35s;
-    padding: 25px 0;
+    padding: 20px 0;
     line-height: 30px;
 }
 .content{
@@ -92,7 +91,7 @@ p{
     color: var(--primary-color);
     margin: auto;
     border-bottom: solid 1px hsl(275, 100%, 97%);
-    width: 550px;
+    width: 600px;
 }
 
 
